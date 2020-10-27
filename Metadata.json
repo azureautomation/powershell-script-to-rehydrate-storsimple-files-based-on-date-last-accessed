@@ -1,0 +1,20 @@
+{
+    "Author": "Sam Boutros",
+    "ContentSize": 5457,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/powershell-script-to-rehydrate-storsimple-files-based-on-date-last-accessed/master/Hydrate-Files.ps1",
+    "DownloadCount": 602,
+    "Id": "Powershell-script-to-a8761fee",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 511,
+    "RaterCount": 3,
+    "Rating": 4.3,
+    "ReleaseDate": "2016-3-17T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "In some rare situations, a StorSimple hybrid cloud storage device can reach a point where a large cold data dump has displaced hot data to the cloud (Azure). This happens if the device local SSD and SAS tiers are full (including reserved space that cannot be used for incoming d",
+    "Title": "Powershell script to rehydrate StorSimple files based on date last accessed",
+    "UpdatedDate": "2016-3-17T00:00:00",
+    "Url": "https://github.com/azureautomation/powershell-script-to-rehydrate-storsimple-files-based-on-date-last-accessed",
+    "UserTags": "Powershell, StorSimple, Rehydrate StorSimple files"
+}
